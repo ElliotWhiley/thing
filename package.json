@@ -17,12 +17,12 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
-    "@types/node": "^20.17.58",
-    "@types/react": "^19.2.7",
+    "@types/node": "^20.19.28",
+    "@types/react": "^19.2.8",
     "@types/react-dom": "^19.2.3",
     "babel-plugin-react-compiler": "^1.0.0",
-    "oxfmt": "^0.21.0",
-    "oxlint": "^1.36.0",
+    "oxfmt": "^0.23.0",
+    "oxlint": "^1.38.0",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3"
   },
